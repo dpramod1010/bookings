@@ -1,0 +1,81 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Pramod Dhayarkar <pramod.dhayarkar@expleogroup.com>
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	modified:   go.mod
+#	modified:   go.sum
+#	modified:   internal/config/config.go
+#	modified:   internal/forms/forms.go
+#	modified:   internal/handlers/handlers.go
+#	modified:   internal/models/models.go
+#	modified:   internal/models/templatedata.go
+#	modified:   internal/render/render.go
+#	modified:   main.go
+#	modified:   middleware.go
+#	modified:   routes.go
+#	modified:   static/css/styles.css
+#	modified:   templates/about.page.tmpl
+#	modified:   templates/base.layout.tmpl
+#	modified:   templates/contact.page.tmpl
+#	modified:   templates/generals.page.tmpl
+#	modified:   templates/home.page.tmpl
+#	modified:   templates/majors.page.tmpl
+#	modified:   templates/make-reservation.page.tmpl
+#	modified:   templates/search-availability.page.tmpl
+#	modified:   vendor/github.com/asaskevich/govalidator/README.md
+#	modified:   vendor/github.com/asaskevich/govalidator/patterns.go
+#	modified:   vendor/github.com/asaskevich/govalidator/types.go
+#	modified:   vendor/github.com/asaskevich/govalidator/validator.go
+#	deleted:    vendor/github.com/tsawler/bookings-app/internal/config/config.go
+#	deleted:    vendor/github.com/tsawler/bookings-app/internal/forms/errors.go
+#	deleted:    vendor/github.com/tsawler/bookings-app/internal/forms/forms.go
+#	deleted:    vendor/github.com/tsawler/bookings-app/internal/models/models.go
+#	deleted:    vendor/github.com/tsawler/bookings-app/internal/models/templatedata.go
+#	modified:   vendor/modules.txt
+#	modified:   working-html/about.html
+#	modified:   working-html/contact.html
+#	modified:   working-html/generals.html
+#	modified:   working-html/index.html
+#	modified:   working-html/majors.html
+#	modified:   working-html/make-reservation.html
+#	modified:   working-html/reservation.html
+#
+# Untracked files:
+#	email-templates/
+#	internal/driver/
+#	internal/forms/forms_test.go
+#	internal/handlers/handlers_test.go
+#	internal/handlers/setup_test.go
+#	internal/helpers/
+#	internal/render/render_test.go
+#	internal/render/setup_test.go
+#	internal/repository/
+#	main_test.go
+#	middleware_test.go
+#	migrations/
+#	routes_test.go
+#	send-mail.go
+#	setup_test.go
+#	static/admin/
+#	static/js/
+#	templates/admin-all-reservations.page.tmpl
+#	templates/admin-dashboard.page.tmpl
+#	templates/admin-new-reservations.page.tmpl
+#	templates/admin-reservations-calendar.page.tmpl
+#	templates/admin-reservations-show.page.tmpl
+#	templates/admin.layout.tmpl
+#	templates/choose-room.page.tmpl
+#	templates/login.page.tmpl
+#	templates/reservation-summary.page.tmpl
+#	vendor/github.com/jackc/
+#	vendor/github.com/toorop/
+#	vendor/github.com/xhit/
+#	vendor/golang.org/
+#
