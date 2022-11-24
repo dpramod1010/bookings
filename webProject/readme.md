@@ -8,3 +8,5 @@ The repository for [Building Modern Web Applications with Go](https://www.udemy.
 - Uses the [chi router](github.com/go-chi/chi)
 - Uses [alex edwards scs session management](github.com/alexedwards/scs)
 - Uses [nosurf](github.com/justinas/nosurf)
+- https://github.com/mailhog/MailHog(for resiving mail after reg)
+- https://www.postgresql.org/ (for database store and resiv
